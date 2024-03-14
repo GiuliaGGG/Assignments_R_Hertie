@@ -5,5 +5,5 @@ In this repository there's stored all the assignments I completed for my Data Sc
 - Assignment 2: Programming: Functions and debugging
 - Assignment 3: Web scraping and APIs
 - Assignment 4: Visualization
-- Assignment 5: Reporting and communication 
+
 
